@@ -1,0 +1,8 @@
+{
+  "name": "portfolio_remake_react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:johanperjulius1/portfolio_remake_react.git",
+  "author": "johanperjulius1 <johan.per.julius.berglund@gmail.com>",
+  "license": "MIT"
+}
